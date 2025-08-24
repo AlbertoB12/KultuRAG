@@ -35,12 +35,12 @@ The application uses a **RAG** approach to ensure the quality and relevance of t
 ---
 
 ## Demo
-!(1.png)
+![image1](1.png)
 
-!(2.png)
+![image2](2.png)
 
-!(3.png)
+![image3](3.png)
 
-!(4.png)
+![image4](4.png)
 
 [▶️ Listen to sample](46cc27041fa015f25dac17c6f52933f7813781ed45f98960a26e44ff.mp3)
