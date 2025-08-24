@@ -1,6 +1,8 @@
 # KultuRAG – Ein KI-gestützter Sprachlern-Assistent
 
-Dieses Projekt ist eine voll funktionsfähige Webanwendung, die als kultureller und interaktiver Assistent für Deutschlernende konzipiert ist. Anstatt generischer Inhalte erstellt die Anwendung Lernmaterialien, die auf kulturellem Kontext basieren und durch authentische Sprachbeispiele angereichert sind.  
+Dieses Projekt ist eine voll funktionsfähige Webanwendung, die als kultureller und interaktiver Assistent für Deutschlernende konzipiert ist.
+
+[Deutsch](README.de.md) | [English](README.md)
 
 ---
 
