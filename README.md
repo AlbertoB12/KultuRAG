@@ -1,6 +1,8 @@
 # KultuRAG – An AI-Powered Language Learning Assistant
 AI-powered language learning assistant for German that uses a RAG pipeline to create interactive, culturally-grounded exercises
 
+[Deutsch](README.de.md) | [English](README.md)
+
 This project is a web application designed as a cultural and interactive assistant for German language learners. Instead of generic content, KultuRAG creates learning materials based on cultural context and enriched with authentic language examples.
 
 ## Concept & Architecture
