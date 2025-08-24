@@ -43,4 +43,4 @@ The application uses a **RAG** approach to ensure the quality and relevance of t
 
 ![image4](4.png)
 
-[▶️ Listen to sample](46cc27041fa015f25dac17c6f52933f7813781ed45f98960a26e44ff.mp3)
+![image5](5.png)
