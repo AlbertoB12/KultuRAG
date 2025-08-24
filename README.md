@@ -5,6 +5,8 @@ AI-powered language learning assistant for German that uses a RAG pipeline to cr
 
 This project is a web application designed as a cultural and interactive assistant for German language learners. Instead of generic content, KultuRAG creates learning materials based on cultural context and enriched with authentic language examples.
 
+---
+
 ## Concept & Architecture
 
 The application uses a **RAG** approach to ensure the quality and relevance of the generated content:
