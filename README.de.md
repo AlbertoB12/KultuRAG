@@ -4,6 +4,8 @@ Dieses Projekt ist eine voll funktionsfähige Webanwendung, die als kultureller 
 
 [Deutsch](README.de.md) | [English](README.md)
 
+Dieses Projekt ist eine Webanwendung, die als kultureller und interaktiver Assistent für Deutschlernende konzipiert ist. Anstatt generischer Inhalte erstellt KultuRAG Lernmaterialien, die auf kulturellem Kontext basieren und durch authentische Sprachbeispiele angereichert sind.
+
 ---
 
 ## Konzept & Architektur
