@@ -27,6 +27,14 @@ Die Anwendung nutzt einen **RAG**-Ansatz, um die Qualität und Relevanz der gene
 
 ---
 
+## Infrastruktur & Tools
+
+- **Vektordatenbanken:** Qdrant
+- **APIs:** Google Cloud (Speech-to-Text, Text-to-Speech), Wikipedia
+- **Deployment:** Google Colab, Ngrok, Streamlit, FastAPI, GitHub
+
+---
+
 ## Demo
 ![image1](1.png)
 
@@ -37,9 +45,3 @@ Die Anwendung nutzt einen **RAG**-Ansatz, um die Qualität und Relevanz der gene
 ![image4](4.png)
 
 ![image5](5.png)
-
-## Infrastruktur & Tools
-
-- **Vektordatenbanken:** Qdrant
-- **APIs:** Google Cloud (Speech-to-Text, Text-to-Speech), Wikipedia
-- **Deployment:** Google Colab, Ngrok, Streamlit, FastAPI, GitHub
