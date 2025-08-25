@@ -45,4 +45,4 @@ The application uses a **RAG** approach to ensure the quality and relevance of t
 
 ![image5](5.png)
 
-[▶️ Listen to sample](sample.mp3)
+[▶️ Listen to sample](sample_audio.mp3)
