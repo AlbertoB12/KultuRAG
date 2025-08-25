@@ -45,3 +45,5 @@ Die Anwendung nutzt einen **RAG**-Ansatz, um die Qualität und Relevanz der gene
 ![image4](4.png)
 
 ![image5](5.png)
+
+[▶️ Hörverstehen: Audiobeispiel abspielen](sample_audio.mp3)
